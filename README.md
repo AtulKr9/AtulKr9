@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AtulKr9
-- 👀 I’m interested in javascript
+- 👀 I’m interested in typescript, graphQl and node.js
 - 🌱 I’m currently learning MERN
 
 <!---
